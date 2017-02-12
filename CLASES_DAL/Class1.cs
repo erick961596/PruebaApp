@@ -8,5 +8,7 @@ namespace CLASES_DAL
 {
     public class Class1
     {
+        string jajaja;
+
     }
 }
